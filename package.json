@@ -1,0 +1,14 @@
+{
+  "name": "clgproject",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-fileupload": "^1.0.0",
+    "express-session": "^1.15.6",
+    "formidable": "^1.2.1",
+    "mysql": "*",
+    "nodemon": "^1.18.6"
+  }
+}
